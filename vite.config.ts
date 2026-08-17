@@ -17,7 +17,7 @@ export default defineConfig(({ mode }) => ({
 						id: 'justfiles.paint',
 						name: 'Paint',
 						description: 'Pixel drawing',
-						icon: 'icon.png',
+						icon: 'icon.svg',
 						app: 'src/app.ts',
 						gui: 'src/gui.tsx'
 					})
