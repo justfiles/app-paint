@@ -2,7 +2,7 @@
 	"name": "app-paint",
 	"version": "0.1.1",
 	"private": true,
-	"packageManager": "pnpm@11.2.2",
+	"packageManager": "pnpm@11.24.0",
 	"description": "A persistent pixel drawing app for JustFiles.",
 	"type": "module",
 	"license": "MIT",
